@@ -22,7 +22,7 @@
   "author": "Vonage Developer Relations",
   "license": "MIT",
   "dependencies": {
-    "@vonage/messages": "^1.15.0",
+    "@vonage/messages": "^1.20.2",
     "@vonage/server-sdk": "^3.16.0",
     "dotenv": "^16.4.5"
   }
